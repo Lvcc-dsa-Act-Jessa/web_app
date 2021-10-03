@@ -296,7 +296,7 @@ p {
        3. How do you float the image to the left of the text? *hint*
     */
     border-radius: 50%;
-    width: 100px;
+    width: 90px;
     float: left;
     margin:0;
     text-align:center;
