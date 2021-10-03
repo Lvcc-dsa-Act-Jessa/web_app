@@ -241,7 +241,7 @@ p {
 #about-info .info-left {
     /* How do we arrainge two divs side-by-side again? */
     float: left;
-    width: 55%;
+    width: 50%;
     padding:20px;
 
 
@@ -250,7 +250,7 @@ p {
 #about-info .info-right {
     /* How do we arrainge two divs side-by-side again? */
     float: right;
-    width:50%;
+    width:45%;
     height: 20%;
     text-align: center;
     padding:20px;
