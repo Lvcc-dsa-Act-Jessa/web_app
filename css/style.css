@@ -310,6 +310,6 @@ p {
     /* Maybe align the text and add some padding or margin */
     text-align: center;
     margin:20px 70px;
-    padding:0;
+    padding:0px;
     color: #ddd;
 }
