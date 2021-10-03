@@ -278,7 +278,7 @@ p {
     /* Add background image here - test-bg.jpg */
     /* Add some padding or height too */   
     background-image: url(../img/test-bg.jpg); 
-    padding:20px;
+    padding:100px;
     height:100%;
 }
 
