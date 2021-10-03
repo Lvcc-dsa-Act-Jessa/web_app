@@ -263,8 +263,8 @@ p {
     /* Add some width too */
     /* To center the image, we make use of what css command? */
     border-radius:50%;
-    width: 500px;
-    height: 400px
+    width: 400px;
+    height: 300px
     text-align: center;
 
 
