@@ -235,27 +235,20 @@ p {
 /* About Info */
 #about-info {
     /* Add some padding so its not compressed */
-    padding: 20px;
+    padding: 40px;
 }
 
 #about-info .info-left {
     /* How do we arrainge two divs side-by-side again? */
     float: left;
     width: 55%;
-    padding:20px;
-
-
 }
 
 #about-info .info-right {
     /* How do we arrainge two divs side-by-side again? */
     float: right;
     width:45%;
-   
     text-align: center;
-    padding:20px;
-
-
 }
 
 #about-info .info-right img {
@@ -266,26 +259,19 @@ p {
     width: 400px;
     height: 300px
     text-align: center;
-
-
 }
-
-
-
-
 
 #testimonials {
     /* Add background image here - test-bg.jpg */
     /* Add some padding or height too */   
     background-image: url(../img/test-bg.jpg); 
-    padding:0;
-    height:100%;
+    padding: 200px 40px 70px 40px;
 }
 
 #testimonials .testimonal {    
     /* Add some padding and marging here */  
-    padding:10px;
-    margin: 50px 10px;
+    padding:20px;
+    margin: 30px 10px;
    
 }
 
@@ -300,16 +286,11 @@ p {
     float: left;
     margin:0px 15px 0px 15px;
     text-align: center;
-
-  
-    
-
 }
 
 #testimonials h2 {    
     /* Maybe align the text and add some padding or margin */
     text-align: center;
-    margin:20px 70px;
-    padding:0px;
+    padding:10px;
     color: #ddd;
 }
