@@ -285,7 +285,7 @@ p {
 #testimonials .testimonal {    
     /* Add some padding and marging here */  
     padding:10px;
-    margin: 30px 10px;
+    margin: 50px 10px;
    
 }
 
@@ -309,6 +309,6 @@ p {
 #testimonials h2 {    
     /* Maybe align the text and add some padding or margin */
     text-align: center;
-    padding: 20px;
+    padding: 40px;
     color: #ddd;
 }
