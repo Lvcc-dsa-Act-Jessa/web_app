@@ -235,7 +235,7 @@ p {
 /* About Info */
 #about-info {
     /* Add some padding so its not compressed */
-    padding: 40px;
+    padding: 20px;
 }
 
 #about-info .info-left {
@@ -250,7 +250,7 @@ p {
 #about-info .info-right {
     /* How do we arrainge two divs side-by-side again? */
     float: right;
-    width:50%;
+    width:60%;
     height: 40%;
     text-align: center;
     padding-top:10px;
@@ -262,9 +262,8 @@ p {
     /* Add some width too */
     /* To center the image, we make use of what css command? */
     border-radius:50%;
-    width: 400px;
+    width: 500px;
     height: 400px
-    text-align: center;
    padding-top:10px;
 
 
