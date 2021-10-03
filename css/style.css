@@ -253,6 +253,7 @@ p {
     width:50%;
     height: 40%;
     text-align: center;
+    padding-top:10px;
 
 }
 
@@ -262,9 +263,9 @@ p {
     /* To center the image, we make use of what css command? */
     border-radius:50%;
     width: 400px;
-    height: 300px
+    height: 400px
     text-align: center;
-   padding-top:40px;
+   padding-top:10px;
 
 
 }
