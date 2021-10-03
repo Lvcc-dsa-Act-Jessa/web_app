@@ -278,7 +278,7 @@ p {
 
 #testimonials .testimonal {    
     /* Add some padding and marging here */  
-    padding: 40px 40px 20px 20px;
+    padding:20px;
     margin: 20px 10px;
    
 }
@@ -290,7 +290,7 @@ p {
        3. How do you float the image to the left of the text? *hint*
     */
     border-radius: 50%;
-    width: 10%;
+    width: 100px;
     float: left;
 }
 
