@@ -279,7 +279,7 @@ p {
     /* Add some padding or height too */   
     background-image: url(../img/test-bg.jpg); 
     padding:90px;
-    height:100%;
+    height:50%;
 }
 
 #testimonials .testimonal {    
@@ -296,7 +296,7 @@ p {
        3. How do you float the image to the left of the text? *hint*
     */
     border-radius: 50%;
-    width: 95px;
+    width: 100px;
     float: left;
     margin:0;
     text-align:center;
