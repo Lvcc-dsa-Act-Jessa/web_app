@@ -242,6 +242,7 @@ p {
     /* How do we arrainge two divs side-by-side again? */
     float: left;
     width: 50%;
+    padding:100px;
 
 
 }
