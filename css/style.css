@@ -309,6 +309,6 @@ p {
 #testimonials h2 {    
     /* Maybe align the text and add some padding or margin */
     text-align: center;
-    padding: 40px;
+    margin: 40px;
     color: #ddd;
 }
