@@ -278,14 +278,14 @@ p {
     /* Add background image here - test-bg.jpg */
     /* Add some padding or height too */   
     background-image: url(../img/test-bg.jpg); 
-    padding:95px;
+    padding:90px;
     height:100%;
 }
 
 #testimonials .testimonal {    
     /* Add some padding and marging here */  
     padding:10px;
-    margin: 20px 10px;
+    margin: 30px 10px;
    
 }
 
@@ -298,7 +298,7 @@ p {
     border-radius: 50%;
     width: 100px;
     float: left;
-    margin:5px;
+    margin:0;
     text-align:center;
     
 
