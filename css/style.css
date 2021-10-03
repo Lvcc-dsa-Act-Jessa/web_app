@@ -278,8 +278,8 @@ p {
     /* Add background image here - test-bg.jpg */
     /* Add some padding or height too */   
     background-image: url(../img/test-bg.jpg); 
-    padding:90px;
-    height:20%;
+    padding:20px;
+    height:100%;
 }
 
 #testimonials .testimonal {    
