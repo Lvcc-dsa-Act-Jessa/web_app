@@ -250,7 +250,7 @@ p {
 #about-info .info-right {
     /* How do we arrainge two divs side-by-side again? */
     float: right;
-    width:60%;
+    width:50%;
     height: 20%;
     text-align: center;
     padding:20px;
