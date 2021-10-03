@@ -242,7 +242,7 @@ p {
     /* How do we arrainge two divs side-by-side again? */
     float: left;
     width: 50%;
-    padding:100px;
+    padding:20px;
 
 
 }
@@ -253,6 +253,7 @@ p {
     width:60%;
     height: 20%;
     text-align: center;
+    padding:20px;
 
 
 }
@@ -264,7 +265,6 @@ p {
     border-radius:50%;
     width: 500px;
     height: 400px
-   padding-top:10px;
     text-align: center;
 
 
@@ -283,7 +283,7 @@ p {
 
 #testimonials .testimonal {    
     /* Add some padding and marging here */  
-    padding:20px;
+    padding:10px;
     margin: 20px 10px;
    
 }
